@@ -39,14 +39,6 @@
                     After watching numerous black and white cowboys with my dad, I’ve decided I like Tales Of Wells Fargo the best. There’s just something about that Jim Hardie I really like. He’s a little bit cowboy and a little refined.
                 </p>
             </div>
-
-            <hr class="my-4"> <div class="row">
-            <div class="col-md-6">
-                @include('components.auth')
-            </div>
-            <div class="col-md-6">
-                @include('components.register')
-            </div>
         </div>
     </main>
 @endsection

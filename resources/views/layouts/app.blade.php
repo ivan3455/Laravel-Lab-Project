@@ -19,6 +19,8 @@
             </style>
         @endif
 
+        @stack('styles')
+
         <style>
             main {
                 max-width: 800px;
